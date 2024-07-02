@@ -18,4 +18,4 @@ permalink: /about/
 
 **participation award** 2020 Kookmin University Algorithm Contest
 
-**participation award** 2019 Information Olympiad
+**participation award** 2019 Korea Information Olympiad Second Round(high school youth group)
