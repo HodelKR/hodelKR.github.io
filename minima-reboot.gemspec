@@ -4,10 +4,10 @@ Gem::Specification.new do |spec|
   spec.name          = "minima-reboot"
   spec.version       = "1.0.33"
   spec.authors       = ["Alexander Terenin"]
-  spec.email         = ["aterenin@users.noreply.github.com"]
+  spec.email         = ["bomin392357@gmail.com"]
 
   spec.summary       = %q{A Bootstrap port of Minima, Jekyll's default theme.}
-  spec.homepage      = "https://github.com/aterenin/minima-reboot"
+  spec.homepage      = "https://github.com/HodelKR/hodelKR.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
