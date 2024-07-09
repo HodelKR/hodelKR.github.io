@@ -1,4 +1,8 @@
-# Topology Sort (위상정렬)
+---
+layout: post
+title: "Topology Sort (위상정렬)"
+categories: Graph
+---
 
 ###  Background
 Topology Sort는 유향 그래프의 indegree가 없는 vertex를 시작으로 outdegree가 없는 vertex까지 나열하는 것을 의미한다. 해당 정렬이 가능하려면 그래프는 DAG를 만족해야 한다.
